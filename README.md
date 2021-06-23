@@ -17,5 +17,5 @@
 3. JWT Token is stored in local storage 
 
 
-# To See Output of nose_server run this command in terminal "node app.js"
+# To See Output of node_server run this command in terminal "node app.js"
 
